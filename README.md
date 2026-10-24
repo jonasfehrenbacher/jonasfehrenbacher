@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">Software engineer based in Germany</h3>
-
+<br><br>
 I enjoy building software and exploring new technologies.
 
-## GitHub Statistics
+### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasfehrenbacher&show_icons=true&theme=github_dark)
 
-## Programming Languages
+### Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfehrenbacher&layout=compact&theme=github_dark&langs_count=8)
 
