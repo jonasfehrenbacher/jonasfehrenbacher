@@ -5,11 +5,11 @@ I enjoy building software and exploring new technologies.
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasfehrenbacher&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonasfehrenbacher&show_icons=true&theme=github_dark)
 
 ### Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfehrenbacher&layout=compact&theme=github_dark&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jonasfehrenbacher&layout=compact&theme=github_dark&langs_count=8)
 
 
 
