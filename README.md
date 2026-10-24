@@ -3,13 +3,13 @@
 <br><br>
 I enjoy building software and exploring new technologies.
 
-### GitHub Statistics
+## GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonasfehrenbacher&show_icons=true&theme=github_dark)
+![Jonas's GitHub Stats](./profile/stats.svg)
 
-### Programming Languages
+## Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jonasfehrenbacher&layout=compact&theme=github_dark&langs_count=8)
+![Top Languages](./profile/top-langs.svg)
 
 
 
